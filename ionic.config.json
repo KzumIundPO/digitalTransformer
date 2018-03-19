@@ -1,0 +1,8 @@
+{
+  "name": "digitaltransformer",
+  "app_id": "837c804e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
